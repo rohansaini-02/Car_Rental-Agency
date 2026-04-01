@@ -23,7 +23,7 @@ In a real-world production level SaaS application, JWT tokens should be stored s
 Run the backend with PHP's built-in server:
 ```bash
 cd backend
-php -S localhost:8000
+php -S localhost:8000 router.php
 ```
 
 ## Setup Frontend
